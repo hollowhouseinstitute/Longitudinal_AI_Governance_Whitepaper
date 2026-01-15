@@ -1,8 +1,8 @@
-# Time Turns Behavior Into Infrastructure  
-## A Longitudinal AI Governance Framework  
+# Longitudinal AI Governance — White Paper
 
-**Hollow House Institute**  
-Structured Human Intelligence
+This repository contains the canonical Hollow House Institute white paper introducing a longitudinal framework for AI governance.
+
+It formalizes behavioral drift, escalation decay, and accountability erosion as governance-relevant risk surfaces.
 
 ---
 
