@@ -9,7 +9,12 @@ This repository contains the canonical Hollow House Institute white paper introd
 
 It formalizes behavioral drift, escalation decay, and accountability erosion as governance-relevant risk surfaces.
 
----
+---> **Canonical Authority**
+> This repository is governed under the Hollow House Institute Master License Suite (HHI-MLS).
+> It does not grant use, training, commercial, or derivative rights by default.
+>
+> Authoritative governance and licensing instruments:
+> https://github.com/hollowhouseinstitute/Master_License_Suite
 
 ## Overview
 
