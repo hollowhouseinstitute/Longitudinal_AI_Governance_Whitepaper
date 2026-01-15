@@ -15,7 +15,13 @@ It formalizes behavioral drift, escalation decay, and accountability erosion as 
 >
 > Authoritative governance and licensing instruments:
 > https://github.com/hollowhouseinstitute/Master_License_Suite
+## Governance Definitions
 
+Key terms used in this repository (e.g., *behavioral drift*, *decision substitution*, *escalation decay*)
+are defined in the **HHI Governance Glossary**.
+
+Canonical definitions:
+https://github.com/hollowhouseinstitute/Hollow_House_Standards_Library/blob/main/glossary.md
 ## Overview
 
 This repository hosts the **public reference white paper** for the  
