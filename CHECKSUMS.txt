@@ -1,0 +1,7 @@
+79d31002c8765d471bb62941299d4daebf6ab064ad44ba1b60b57d22a630c605  LRGF_Whitepaper_Final.pdf
+7287b2bea79d3714e3dba22cea160568c778c82d3baa1f7cff4b491b7322efc9  README.md
+a2076fed6b62961abab948e396a97b3a528a5fddbbe74ebd26d186e2ca8144db  license.md
+
+# Checksum Generation
+Date: 2026-02-07T02:34:00Z
+Version: v1.0.0

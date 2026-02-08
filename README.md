@@ -1,3 +1,11 @@
+<!--
+CANONICAL ARTIFACT
+Repository: Longitudinal_AI_Governance_Whitepaper
+Version: v1.0.0
+Status: LOCKED (pending authority verification)
+Human Authority: Amy Pierce Adams
+Checksum: See CHECKSUMS.txt
+-->
 # Longitudinal AI Governance — White Paper
 **Hollow House Institute**  
 **Structured Human Intelligence**
