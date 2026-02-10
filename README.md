@@ -37,7 +37,16 @@ This repository contains the **authoritative public version** of the white paper
 It does **not** disclose proprietary audit tooling, datasets, or internal
 implementation methods.
 
----
+---## Related Governance Standards
+
+This white paper provides conceptual and normative grounding for the following
+Hollow House Institute governance standard:
+
+- **HHI_GOV_01 — Longitudinal Behavioral Governance for AI Systems**  
+  https://github.com/hollowhouseinstitute/HHI_GOV_01
+
+Canonical governance requirements are defined in HHI_GOV_01.
+This paper explains rationale and context; it does not supersede the standard.
 
 ## Abstract
 
