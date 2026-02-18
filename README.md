@@ -1,68 +1,64 @@
-<!--
-CANONICAL ARTIFACT
-Repository: Longitudinal_AI_Governance_Whitepaper
-Version: v1.0.0
-Status: LOCKED (pending authority verification)
-Human Authority: Amy Pierce Adams
-Checksum: See CHECKSUMS.txt
--->
-# Longitudinal AI Governance — White Paper
-**Hollow House Institute**  
-**Structured Human Intelligence**
+# Longitudinal AI Governance Whitepaper
 
-*Time turns behavior into infrastructure.*  
-*Behavior is the most honest data there is.*
+Role: Narrative explanation of longitudinal AI governance concepts  
+Authority Tier: Tier 2 (Reference & Research)  
+Depends On: Hollow_House_Standards_Library, HHI_GOV_01 (conceptual)  
+Does Not Define: Canonical terminology, governance standards, licensing terms, datasets  
+Governance Status: Supporting
 
-This repository contains the canonical Hollow House Institute white paper introducing a longitudinal framework for AI governance.
-
-It formalizes behavioral drift, escalation decay, and accountability erosion as governance-relevant risk surfaces.
-
----> **Canonical Authority**
-> This repository is governed under the Hollow House Institute Master License Suite (HHI-MLS).
-> It does not grant use, training, commercial, or derivative rights by default.
->
-> Authoritative governance and licensing instruments:
-> https://github.com/hollowhouseinstitute/Master_License_Suite
-Key.md
-## Overview
-
-This repository hosts the **public reference white paper** for the  
-**Longitudinal Relational Governance Framework™ (LRGF)**.
-
-The paper introduces a governance model for identifying how **risk, harm,
-and instability accumulate over time** in AI systems, platforms, and
-organizations—beyond what point-in-time audits or compliance checks can detect.
-
-This repository contains the **authoritative public version** of the white paper.
-It does **not** disclose proprietary audit tooling, datasets, or internal
-implementation methods.
-
----## Related Governance Standards
-
-This white paper provides conceptual and normative grounding for the following
-Hollow House Institute governance standard:
-
-- **HHI_GOV_01 — Longitudinal Behavioral Governance for AI Systems**  
-  https://github.com/hollowhouseinstitute/HHI_GOV_01
-
-Canonical governance requirements are defined in HHI_GOV_01.
-This paper explains rationale and context; it does not supersede the standard.
-
-## Abstract
-
-This white paper establishes that:
-
-- Snapshot AI audits fail to capture slow-forming governance risk
-- Repeated AI use reshapes judgment, escalation behavior, and accountability
-- Behavioral drift and retention normalization can mask harm
-- Governance failures often emerge *between* incidents, not at them
-- Longitudinal, behavior-based analysis is required for meaningful oversight
+Authority Links:
+- Hollow_House_Standards_Library (canonical definitions authority)
+- HHI_GOV_01 (governance execution standard)
+- SPEC-003 Repository Governance & Authority Order (HHI-SPEC-003)
 
 ---
 
-## What This Paper Covers
+## Purpose
 
-- Why point-in-time AI audits are structurally insufficient  
-- How behavioral drift becomes organizational infrastructure  
-- The relationship between retention, trust, and hidden harm  
-- Escalation decay and override
+This repository contains the Hollow House Institute whitepaper describing
+**longitudinal governance risks in AI-mediated organizations**.
+
+It exists to explain:
+- how governance risk accumulates over time
+- why point-in-time controls are insufficient
+- how behavioral drift becomes infrastructure
+
+This document is explanatory, not authoritative.
+
+---
+
+## Scope
+
+This repository may include:
+- narrative analysis
+- diagrams and conceptual models
+- references to governance standards and research
+
+This repository does not:
+- define canonical terminology
+- establish governance controls
+- issue audit findings
+- provide compliance determinations
+- certify AI systems or organizations
+
+---
+
+## Authority Boundaries
+
+All terminology defers to the Hollow_House_Standards_Library.
+
+Any governance claims must defer to Tier 1 artifacts
+(especially HHI_GOV_01 and HHI_Interaction_Controls).
+
+This whitepaper may reference standards but may not extend or reinterpret them.
+
+---
+
+## Status
+
+Tier 2 supporting reference artifact.  
+Non-authoritative by design.
+
+---
+
+End of file.
