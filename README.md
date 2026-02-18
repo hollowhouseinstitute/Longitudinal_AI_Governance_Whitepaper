@@ -66,3 +66,9 @@ This white paper establishes that:
 - How behavioral drift becomes organizational infrastructure  
 - The relationship between retention, trust, and hidden harm  
 - Escalation decay and override
+
+## Governance
+
+This repository inherits governance authority from the **HHI Governance Export — Core**.
+
+All execution, datasets, research, and audits are bound to its standards and constraints.
